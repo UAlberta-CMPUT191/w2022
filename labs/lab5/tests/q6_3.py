@@ -1,0 +1,10 @@
+test = {   'name': 'q6_3',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': '>>> # Double check that your salary_range function is correct\n>>> salary_range(make_array(5, 1, 20, 1000)) == 999\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> ministry_ranges.column(1)[0] == 172047.46000000002\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

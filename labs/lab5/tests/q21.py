@@ -1,0 +1,11 @@
+test = {   'name': 'q21',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': '>>> # Make sure you are examining the values in the column, not the column itself\n>>> import numpy\n>>> pension_value_type != numpy.ndarray\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> 'str' in str(pension_value_type)\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': '>>> # Make sure to call the type function on a value in the column\n>>> pension_value_type != int\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
