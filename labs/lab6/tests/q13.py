@@ -1,0 +1,10 @@
+test = {   'name': 'q13',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> fry_reaction('gravey') == 'Savoury!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> fry_reaction('cheese') == 'Cheesy!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> fry_reaction('both') == 'Mmmmm'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> fry_reaction('neither') == 'What?'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
